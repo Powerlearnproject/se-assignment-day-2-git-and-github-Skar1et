@@ -1,11 +1,19 @@
 # se-day-2-Git-and-GitHub
 ## Explain the fundamental concepts of version control and why GitHub is a popular tool for managing versions of code. How does version control help in maintaining project integrity?
 The fundamental concept of version control is its ability to track and manage changes in codes and enable multiple collaborations. 
+
+GitHub is a popular tool because of its large community of users, its open-source use, its integration with other tools and its ease of use. 
+Version control helps to maintain project integrity because every change made by various users of a code can be tracked making it impossible for code manipulation or loss. various versions of the code can be traced and accessed.
+
+## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+It is relatively easy to create a new repository. When you open your GitHub, tap on the plus sign at the top right corner of the page. You will have the option to import or create a repository. Choose to create.
+
 GitHub is a popular tool because of its large community of users, its open-source use, it's integration with other tools and its ease of use. 
 Version control helps to maintain project integrity because every change made by various users of a code can be tracked making it impossible for code manipulation or loss. various versions of the code can be traced and accessed.
 
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 It is relatively easy to create a new repository. When you open your GitHub, tap on the plus sign at the top right corner of the page. You will have the option to import a repository or to create a repository. Choose to create.
+
 Some of the important decisions to be taken involves choosing to make your repository public or private, adding a readme file and choosing the repository name and license. 
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
